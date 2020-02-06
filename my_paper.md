@@ -66,3 +66,10 @@ Integer non nisi lectus. Vestibulum dictum ex nunc, id commodo quam dignissim vi
 Pellentesque pretium pulvinar massa. Donec hendrerit fermentum ipsum, rutrum porttitor mauris accumsan et. 
 Proin ultricies velit pulvinar ante egestas ullamcorper. 
 Mauris ultrices commodo nisl, nec egestas dolor lobortis eu.
+
+# Literature Review
+
+The most relevant paper is clearly @mankiw1992contribution.
+Thats because Solow's constant is 0.05 [@mankiw1992contribution].
+
+# References
