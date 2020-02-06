@@ -16,6 +16,9 @@ authors:
 - name: Lexi Schubert
   affiliation: University of Zurich
 
+- name: Nicola Benigni
+  affiliation: University of Zurich
+
 
 keywords:
 
