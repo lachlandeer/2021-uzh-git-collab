@@ -10,9 +10,11 @@ authors:
   thanks: The authors gratefully acknowledge ...
   affiliation: University of Chicago Booth School of Business
 
+- name: Martin Stancsics
+  affiliation: University of Zürich
+
 - name: Lexi Schubert
   affiliation: University of Zurich
-  
 
 
 keywords:
