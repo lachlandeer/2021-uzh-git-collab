@@ -1,5 +1,4 @@
-title: change tiitle 
->>>>>>> d79dbad320a9e3f8081e3f7525826ca6cc71be1b
+title: The best title ever 
 
 # to produce blinded version set to 1
 blinded: 0
