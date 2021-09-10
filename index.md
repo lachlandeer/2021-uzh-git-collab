@@ -1,5 +1,5 @@
 ---
-title: change tiitle 
+title: change title to sth else
 
 # to produce blinded version set to 1
 blinded: 0
