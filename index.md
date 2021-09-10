@@ -1,5 +1,5 @@
 ---
-title: A Not Very Important Paper on an Unimportant Topic
+title: Another title
 
 # to produce blinded version set to 1
 blinded: 0
