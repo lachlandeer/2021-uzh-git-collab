@@ -1,4 +1,3 @@
-
 title: A Very Important Paper on an extremely important topic in a different field
 
 
