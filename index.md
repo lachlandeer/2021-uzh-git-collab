@@ -1,6 +1,7 @@
 ---
+<<<<<<< HEAD
 title: The best title ever 
-
+=======
 # to produce blinded version set to 1
 blinded: 0
 
