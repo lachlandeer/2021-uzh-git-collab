@@ -1,4 +1,3 @@
----
 title: An Original Paper on an Unexplored Topic
 
 # to produce blinded version set to 1
