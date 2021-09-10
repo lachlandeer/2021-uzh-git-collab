@@ -1,5 +1,5 @@
 ---
-title: change tiitle 
+title: New Super title
 
 # to produce blinded version set to 1
 blinded: 0
