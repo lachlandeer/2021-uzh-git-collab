@@ -6,9 +6,4 @@ My favourite paper is @mankiw1992contribution.
 
 If I wanted to cite my favourite paper I could do so like this [@mankiw1992contribution].
 
-
-
-
-
-
-Stop! Collaborate and listen!
+I should probably have a favourite paper too if I want to call myself an economist...
